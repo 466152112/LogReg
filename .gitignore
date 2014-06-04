@@ -1,0 +1,16 @@
+*.class
+.classpath
+.project
+.settings/
+.svn/
+*.iml
+target/
+docs/
+bin/
+corpus/
+temp/
+test/
+*.model
+# Package Files #
+*.war
+*.ear
